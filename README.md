@@ -31,7 +31,7 @@ Os principais objetivos da análise são:
     ```
 2. Instale as dependências:
     ```bash
-    pip install pandas numpy
+    pip install pandas
     ```
 3. Execute o script Python:
     ```bash
