@@ -27,11 +27,11 @@ Os principais objetivos da análise são:
 
 1. Clone este repositório: 
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/RafaCardinali/school_analysis.git
     ```
 2. Instale as dependências:
     ```bash
-    pip install pandas numpy matplotlib
+    pip install pandas numpy
     ```
 3. Execute o script Python:
     ```bash
